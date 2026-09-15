@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "project.html#overview",
+    "href": "project.html#overview",
+    "title": "Research Project",
+    "section": "Overview",
+    "text": "Overview\nI am developing a time series forecasting project on the college name, image, and likeness (NIL) market as part of ECON 5371. The project extends research I completed in a previous panel-data course and shifts the focus from explaining differences across athletes, schools, or markets to studying how NIL activity changes over time."
+  },
+  {
+    "objectID": "project.html#research-direction",
+    "href": "project.html#research-direction",
+    "title": "Research Project",
+    "section": "Research direction",
+    "text": "Research direction\nThe project will organize available NIL measures into a time series and evaluate their trend, persistence, and forecastability. Depending on data availability and frequency, potential outcomes include NIL valuations, deal activity, or aggregate market estimates."
+  },
+  {
+    "objectID": "project.html#planned-approach",
+    "href": "project.html#planned-approach",
+    "title": "Research Project",
+    "section": "Planned approach",
+    "text": "Planned approach\n\nRecover and document the prior NIL dataset and model.\nIdentify a consistent time-indexed NIL outcome and relevant explanatory variables.\nVisualize the series and evaluate stationarity, trend, seasonality, and structural breaks.\nEstimate appropriate benchmark and stationary time series models.\nCompare out-of-sample forecast performance and interpret the economic implications."
+  },
+  {
+    "objectID": "project.html#status",
+    "href": "project.html#status",
+    "title": "Research Project",
+    "section": "Status",
+    "text": "Status\nProposal stage. The research question and prior panel-data foundation are established. The next step is to retrieve the earlier project files from OneDrive, assess the available time coverage, and finalize the outcome to be forecast."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Peter Richards",
+    "section": "",
+    "text": "I am an M.S. Economics student specializing in data analytics at The University of Texas at El Paso. My work focuses on using economic analysis, forecasting, and data tools to solve practical problems—especially in legal and policy settings.\nView my research project\n\n\n\nPeter Richards\nM.S. Economics · UTEP"
+  },
+  {
+    "objectID": "index.html#economics-data-and-applied-research",
+    "href": "index.html#economics-data-and-applied-research",
+    "title": "Peter Richards",
+    "section": "",
+    "text": "I am an M.S. Economics student specializing in data analytics at The University of Texas at El Paso. My work focuses on using economic analysis, forecasting, and data tools to solve practical problems—especially in legal and policy settings.\nView my research project"
+  },
+  {
+    "objectID": "index.html#cv",
+    "href": "index.html#cv",
+    "title": "Peter Richards",
+    "section": "CV",
+    "text": "CV\nDownload full CV (PDF)\n\nEducation\n\nM.S. Economics with Data Analytics, The University of Texas at El Paso\nAugust 2025–Present\nB.S. Economics, Brigham Young University\nAugust 2020–June 2025\n\n\n\nExperience\n\nAI Integration in Defense Litigation, Kirton McConkie\nApply AI-supported research, analysis, and workflow design in legal contexts.\nParalegal, Robles, Bracken and Hughes, PLLC\nDrafted, revised, and filed legal pleadings and motions while coordinating attorney schedules and case progress.\nEVS Operator, BYU Broadcasting\nSupported the production and creative direction of live BYU sports, events, and media.\nSales Development Representative, Kenect\nQualified prospects and scheduled demonstrations of a reputation-management platform."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Peter Richards",
+    "section": "Research interests",
+    "text": "Research interests\nMy research interests center on applied economics, forecasting, and the use of AI and data analytics in legal contexts. I am especially interested in extending prior panel-data research on name, image, and likeness (NIL) compensation into a forecasting project that examines how the college-athlete market evolves over time."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Peter Richards",
+    "section": "Skills",
+    "text": "Skills\n\nAnalysis: Econometrics, Python, Stata, Tableau, Excel, SQL, time series forecasting, panel data\nProgramming: VBA, HTML, CSS, JavaScript\nProfessional: Legal research, litigation support, data-informed workflow design\nLanguages: English; intermediate Spanish"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Peter Richards",
+    "section": "Contact",
+    "text": "Contact\nSchool: prichards@miners.utep.edu\nPersonal: richardspeter111@gmail.com\nGitHub: github.com/peterrichardsutep"
+  }
+]

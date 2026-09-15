@@ -1,0 +1,26 @@
+:root {
+  --utep-blue: #041e42;
+  --utep-orange: #ff8200;
+  --ink: #172033;
+  --muted: #5b667a;
+  --paper: #f7f9fc;
+}
+
+body { color: var(--ink); background: white; }
+.navbar { background: var(--utep-blue) !important; border-bottom: 4px solid var(--utep-orange); }
+.navbar-brand, .navbar-nav .nav-link { color: white !important; }
+h1, h2, h3 { color: var(--utep-blue); font-weight: 700; }
+h1 { border-bottom: 3px solid var(--utep-orange); padding-bottom: .45rem; }
+a { color: #a64b00; }
+.hero { display: grid; grid-template-columns: 1fr 250px; gap: 3rem; align-items: center; padding: 3.5rem 0 4rem; }
+.hero h2 { font-size: clamp(2.3rem, 5vw, 4.5rem); line-height: 1.05; margin-top: 0; }
+.hero-copy p { color: var(--muted); font-size: 1.15rem; max-width: 760px; }
+.profile-card { background: var(--paper); border-top: 5px solid var(--utep-orange); border-radius: 6px; padding: 1rem; text-align: center; box-shadow: 0 10px 30px rgba(4,30,66,.12); }
+.headshot { width: 100%; max-width: 210px; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 50%; border: 5px solid white; }
+.btn-primary { background: var(--utep-orange); border-color: var(--utep-orange); color: #111; font-weight: 700; }
+.btn-primary:hover { background: var(--utep-blue); border-color: var(--utep-blue); color: white; }
+.cv-link { display: inline-block; padding: .7rem 1rem; border: 2px solid var(--utep-orange); border-radius: 4px; font-weight: 700; text-decoration: none; }
+.project-hero { background: linear-gradient(135deg, var(--utep-blue), #123d72); color: white; padding: 2.4rem; border-left: 8px solid var(--utep-orange); margin-bottom: 2rem; }
+.project-hero h2, .project-hero h3 { color: white; }
+@media (max-width: 720px) { .hero { grid-template-columns: 1fr; } .profile-card { max-width: 270px; } }
+

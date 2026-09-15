@@ -1,0 +1,31 @@
+---
+title: "Research Project"
+pagetitle: "NIL Market Forecasting | Peter Richards"
+---
+
+::: {.project-hero}
+## Forecasting the college NIL market
+
+### Extending prior panel-data research with time series methods
+:::
+
+## Overview
+
+I am developing a time series forecasting project on the college name, image, and likeness (NIL) market as part of ECON 5371. The project extends research I completed in a previous panel-data course and shifts the focus from explaining differences across athletes, schools, or markets to studying how NIL activity changes over time.
+
+## Research direction
+
+The project will organize available NIL measures into a time series and evaluate their trend, persistence, and forecastability. Depending on data availability and frequency, potential outcomes include NIL valuations, deal activity, or aggregate market estimates.
+
+## Planned approach
+
+1. Recover and document the prior NIL dataset and model.
+2. Identify a consistent time-indexed NIL outcome and relevant explanatory variables.
+3. Visualize the series and evaluate stationarity, trend, seasonality, and structural breaks.
+4. Estimate appropriate benchmark and stationary time series models.
+5. Compare out-of-sample forecast performance and interpret the economic implications.
+
+## Status
+
+**Proposal stage.** The research question and prior panel-data foundation are established. The next step is to retrieve the earlier project files from OneDrive, assess the available time coverage, and finalize the outcome to be forecast.
+

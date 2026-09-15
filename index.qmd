@@ -1,0 +1,60 @@
+---
+title: "Peter Richards"
+pagetitle: "Peter Richards | Economics & Data Analytics"
+---
+
+::: {.hero}
+::: {.hero-copy}
+## Economics, data, and applied research
+
+I am an M.S. Economics student specializing in data analytics at The University of Texas at El Paso. My work focuses on using economic analysis, forecasting, and data tools to solve practical problems—especially in legal and policy settings.
+
+[View my research project](project.qmd){.btn .btn-primary}
+:::
+
+::: {.profile-card}
+![](images/headshot.jpg){.headshot}
+
+**Peter Richards**  
+M.S. Economics · UTEP
+:::
+:::
+
+## CV
+
+[**Download full CV (PDF)**](files/cv.pdf){.cv-link}
+
+### Education
+
+- **M.S. Economics with Data Analytics**, The University of Texas at El Paso  
+  August 2025–Present
+- **B.S. Economics**, Brigham Young University  
+  August 2020–June 2025
+
+### Experience
+
+- **AI Integration in Defense Litigation**, Kirton McConkie  
+  Apply AI-supported research, analysis, and workflow design in legal contexts.
+- **Paralegal**, Robles, Bracken and Hughes, PLLC  
+  Drafted, revised, and filed legal pleadings and motions while coordinating attorney schedules and case progress.
+- **EVS Operator**, BYU Broadcasting  
+  Supported the production and creative direction of live BYU sports, events, and media.
+- **Sales Development Representative**, Kenect  
+  Qualified prospects and scheduled demonstrations of a reputation-management platform.
+
+## Research interests
+
+My research interests center on applied economics, forecasting, and the use of AI and data analytics in legal contexts. I am especially interested in extending prior panel-data research on name, image, and likeness (NIL) compensation into a forecasting project that examines how the college-athlete market evolves over time.
+
+## Skills
+
+- **Analysis:** Econometrics, Python, Stata, Tableau, Excel, SQL, time series forecasting, panel data
+- **Programming:** VBA, HTML, CSS, JavaScript
+- **Professional:** Legal research, litigation support, data-informed workflow design
+- **Languages:** English; intermediate Spanish
+
+## Contact
+
+**School:** [prichards@miners.utep.edu](mailto:prichards@miners.utep.edu)  
+**Personal:** [richardspeter111@gmail.com](mailto:richardspeter111@gmail.com)  
+**GitHub:** [github.com/peterrichardsutep](https://github.com/peterrichardsutep)

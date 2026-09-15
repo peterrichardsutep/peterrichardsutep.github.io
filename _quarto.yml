@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Peter Richards"
+  favicon: images/favicon.svg
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: project.qmd
+        text: Research Project
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
